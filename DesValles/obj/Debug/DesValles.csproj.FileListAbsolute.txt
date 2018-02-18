@@ -1,0 +1,16 @@
+C:\Users\Gonzalo\Documents\DesValles\DesValles\obj\Debug\DesValles.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Documents\DesValles\DesValles\obj\Debug\DesValles.Properties.Resources.resources
+C:\Users\Gonzalo\Documents\DesValles\DesValles\obj\Debug\DesValles.csproj.GenerateResource.Cache
+C:\Users\Gonzalo\Documents\DesValles\DesValles\obj\Debug\DesValles.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Documents\DesValles\DesValles\bin\Debug\DesValles.exe.config
+C:\Users\Gonzalo\Documents\DesValles\DesValles\bin\Debug\DesValles.exe
+C:\Users\Gonzalo\Documents\DesValles\DesValles\bin\Debug\DesValles.pdb
+C:\Users\Gonzalo\Documents\DesValles\DesValles\bin\Debug\CapaPresentacion.dll
+C:\Users\Gonzalo\Documents\DesValles\DesValles\bin\Debug\CapaNegocio.dll
+C:\Users\Gonzalo\Documents\DesValles\DesValles\bin\Debug\CapaDatos.dll
+C:\Users\Gonzalo\Documents\DesValles\DesValles\bin\Debug\CapaPresentacion.pdb
+C:\Users\Gonzalo\Documents\DesValles\DesValles\bin\Debug\CapaNegocio.pdb
+C:\Users\Gonzalo\Documents\DesValles\DesValles\bin\Debug\CapaDatos.pdb
+C:\Users\Gonzalo\Documents\DesValles\DesValles\bin\Debug\CapaDatos.dll.config
+C:\Users\Gonzalo\Documents\DesValles\DesValles\obj\Debug\DesValles.exe
+C:\Users\Gonzalo\Documents\DesValles\DesValles\obj\Debug\DesValles.pdb
